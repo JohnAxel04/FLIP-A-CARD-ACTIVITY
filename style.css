@@ -83,8 +83,7 @@ body{
     url("picture/23-removebg-preview.png");
 
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
+  background-size: 238px 100%;
 }
 
 /* second card */
@@ -126,8 +125,7 @@ body{
     url("picture/e3f87a1d-0b51-4bfd-82a8-4161a48a0f61-removebg-preview.png");
 
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
+  background-size: 243px 100%;
 }
 
 .whole2{
@@ -170,8 +168,7 @@ body{
     url("picture/card_1-removebg-preview.png");
 
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
+  background-size: 243px 100%;
 }
 .tap{
     font-size: .8rem;
