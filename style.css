@@ -77,9 +77,14 @@ body{
 }
 .card.back{
     transform: rotateY(180deg);
-    background-image: url(/picture/23-removebg-preview.png);
-    background-size: 108% 100%;
-    background-repeat: no-repeat;
+
+  background:
+    radial-gradient(circle, rgba(255,215,120,0.25), transparent 70%),
+    url("picture/23-removebg-preview.png");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
 
 /* second card */
@@ -115,10 +120,14 @@ body{
 }
 .card.back1{
     transform: rotateY(180deg);
-    background-image: url(/picture/e3f87a1d-0b51-4bfd-82a8-4161a48a0f61-removebg-preview.png);
-    background-size: 110% 100%;
-    background-repeat: no-repeat;
-    background-color: gold;
+
+  background:
+    radial-gradient(circle, rgba(255,215,120,0.25), transparent 70%),
+    url("picture/e3f87a1d-0b51-4bfd-82a8-4161a48a0f61-removebg-preview.png");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
 
 .whole2{
@@ -154,11 +163,15 @@ body{
     border: 5px inset rgba(255, 183, 0, 0.788);
 }
 .card.back2{
-    transform: rotateY(180deg);
-    background-image: url(/picture/card_1-removebg-preview.png);
-    background-size: 110% 100%;
-    background-repeat: no-repeat;
-    background-color: gold;
+  transform: rotateY(180deg);
+
+  background:
+    radial-gradient(circle, rgba(255,215,120,0.25), transparent 70%),
+    url("picture/card_1-removebg-preview.png");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
 .tap{
     font-size: .8rem;
