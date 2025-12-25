@@ -80,7 +80,6 @@ body{
     background-image: url(/picture/23-removebg-preview.png);
     background-size: 108% 100%;
     background-repeat: no-repeat;
-    background: radial-gradient(circle,rgba(255,215,120,0.25),transparent 70%,);
 }
 
 /* second card */
@@ -120,7 +119,6 @@ body{
     background-size: 110% 100%;
     background-repeat: no-repeat;
     background-color: gold;
-    background: radial-gradient(circle,rgba(255,215,120,0.25),transparent 70%,);
 }
 
 .whole2{
@@ -161,7 +159,6 @@ body{
     background-size: 110% 100%;
     background-repeat: no-repeat;
     background-color: gold;
-    background: radial-gradient(circle,rgba(255,215,120,0.25),transparent 70%,);
 }
 .tap{
     font-size: .8rem;
